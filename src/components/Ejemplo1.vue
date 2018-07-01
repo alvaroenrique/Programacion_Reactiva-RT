@@ -17,9 +17,6 @@
 </template>
 
 <script>
-import { Observable } from "rxjs/Observable";
-import "rxjs/add/observable/of";
-
 export default {
   name: "Ejemplo1",
   data() {
